@@ -1,0 +1,14 @@
+C:\Web\Backend\C#\Session 3\Session04\Session04_Demo\bin\Debug\net8.0\Session04_Demo.exe
+C:\Web\Backend\C#\Session 3\Session04\Session04_Demo\bin\Debug\net8.0\Session04_Demo.deps.json
+C:\Web\Backend\C#\Session 3\Session04\Session04_Demo\bin\Debug\net8.0\Session04_Demo.runtimeconfig.json
+C:\Web\Backend\C#\Session 3\Session04\Session04_Demo\bin\Debug\net8.0\Session04_Demo.dll
+C:\Web\Backend\C#\Session 3\Session04\Session04_Demo\bin\Debug\net8.0\Session04_Demo.pdb
+C:\Web\Backend\C#\Session 3\Session04\Session04_Demo\obj\Debug\net8.0\Session04_Demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Web\Backend\C#\Session 3\Session04\Session04_Demo\obj\Debug\net8.0\Session04_Demo.AssemblyInfoInputs.cache
+C:\Web\Backend\C#\Session 3\Session04\Session04_Demo\obj\Debug\net8.0\Session04_Demo.AssemblyInfo.cs
+C:\Web\Backend\C#\Session 3\Session04\Session04_Demo\obj\Debug\net8.0\Session04_Demo.csproj.CoreCompileInputs.cache
+C:\Web\Backend\C#\Session 3\Session04\Session04_Demo\obj\Debug\net8.0\Session04_Demo.dll
+C:\Web\Backend\C#\Session 3\Session04\Session04_Demo\obj\Debug\net8.0\refint\Session04_Demo.dll
+C:\Web\Backend\C#\Session 3\Session04\Session04_Demo\obj\Debug\net8.0\Session04_Demo.pdb
+C:\Web\Backend\C#\Session 3\Session04\Session04_Demo\obj\Debug\net8.0\Session04_Demo.genruntimeconfig.cache
+C:\Web\Backend\C#\Session 3\Session04\Session04_Demo\obj\Debug\net8.0\ref\Session04_Demo.dll

@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Web\\Backend\\C#\\Session 3\\Session04\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{96F704AE-61D4-43A3-B4CC-D09008170137}|Assignment04\\Assignment04.csproj|c:\\web\\backend\\c#\\session 3\\session04\\assignment04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96F704AE-61D4-43A3-B4CC-D09008170137}|Assignment04\\Assignment04.csproj|solutionrelative:assignment04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{939E71BA-71C0-421F-9FF0-5AD5D77FAE35}|Session04_Demo\\Session04_Demo.csproj|c:\\web\\backend\\c#\\session 3\\session04\\session04_demo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{939E71BA-71C0-421F-9FF0-5AD5D77FAE35}|Session04_Demo\\Session04_Demo.csproj|solutionrelative:session04_demo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Web\\Backend\\C#\\Session 3\\Session04\\Assignment04\\Program.cs",
+              "RelativeDocumentMoniker": "Assignment04\\Program.cs",
+              "ToolTip": "C:\\Web\\Backend\\C#\\Session 3\\Session04\\Assignment04\\Program.cs",
+              "RelativeToolTip": "Assignment04\\Program.cs",
+              "ViewState": "AgIAAIIBAAAAMjMzMzMLwIkBAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T14:01:03.286Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Web\\Backend\\C#\\Session 3\\Session04\\Session04_Demo\\Program.cs",
+              "RelativeDocumentMoniker": "Session04_Demo\\Program.cs",
+              "ToolTip": "C:\\Web\\Backend\\C#\\Session 3\\Session04\\Session04_Demo\\Program.cs",
+              "RelativeToolTip": "Session04_Demo\\Program.cs",
+              "ViewState": "AgIAABEAAAAgMzMzMzMjwAcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T10:45:14.579Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

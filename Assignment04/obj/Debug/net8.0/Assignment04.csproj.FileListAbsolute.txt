@@ -1,0 +1,14 @@
+C:\Web\Backend\C#\Session 3\Session04\Assignment04\bin\Debug\net8.0\Assignment04.exe
+C:\Web\Backend\C#\Session 3\Session04\Assignment04\bin\Debug\net8.0\Assignment04.deps.json
+C:\Web\Backend\C#\Session 3\Session04\Assignment04\bin\Debug\net8.0\Assignment04.runtimeconfig.json
+C:\Web\Backend\C#\Session 3\Session04\Assignment04\bin\Debug\net8.0\Assignment04.dll
+C:\Web\Backend\C#\Session 3\Session04\Assignment04\bin\Debug\net8.0\Assignment04.pdb
+C:\Web\Backend\C#\Session 3\Session04\Assignment04\obj\Debug\net8.0\Assignment04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Web\Backend\C#\Session 3\Session04\Assignment04\obj\Debug\net8.0\Assignment04.AssemblyInfoInputs.cache
+C:\Web\Backend\C#\Session 3\Session04\Assignment04\obj\Debug\net8.0\Assignment04.AssemblyInfo.cs
+C:\Web\Backend\C#\Session 3\Session04\Assignment04\obj\Debug\net8.0\Assignment04.csproj.CoreCompileInputs.cache
+C:\Web\Backend\C#\Session 3\Session04\Assignment04\obj\Debug\net8.0\Assignment04.dll
+C:\Web\Backend\C#\Session 3\Session04\Assignment04\obj\Debug\net8.0\refint\Assignment04.dll
+C:\Web\Backend\C#\Session 3\Session04\Assignment04\obj\Debug\net8.0\Assignment04.pdb
+C:\Web\Backend\C#\Session 3\Session04\Assignment04\obj\Debug\net8.0\Assignment04.genruntimeconfig.cache
+C:\Web\Backend\C#\Session 3\Session04\Assignment04\obj\Debug\net8.0\ref\Assignment04.dll
