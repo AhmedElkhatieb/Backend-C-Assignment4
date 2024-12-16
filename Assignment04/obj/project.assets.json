@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Web\\Backend\\C#\\Session 3\\Session04\\Assignment04\\Assignment04.csproj",
+      "projectUniqueName": "C:\\Web\\Backend\\C#\\Session 4\\Session04\\Assignment04\\Assignment04.csproj",
       "projectName": "Assignment04",
-      "projectPath": "C:\\Web\\Backend\\C#\\Session 3\\Session04\\Assignment04\\Assignment04.csproj",
+      "projectPath": "C:\\Web\\Backend\\C#\\Session 4\\Session04\\Assignment04\\Assignment04.csproj",
       "packagesPath": "C:\\Users\\LENOVO\\.nuget\\packages\\",
-      "outputPath": "C:\\Web\\Backend\\C#\\Session 3\\Session04\\Assignment04\\obj\\",
+      "outputPath": "C:\\Web\\Backend\\C#\\Session 4\\Session04\\Assignment04\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

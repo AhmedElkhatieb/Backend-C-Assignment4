@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Web\\Backend\\C#\\Session 3\\Session04\\Session04_Demo\\Session04_Demo.csproj": {}
+    "C:\\Web\\Backend\\C#\\Session 4\\Session04\\Session04_Demo\\Session04_Demo.csproj": {}
   },
   "projects": {
-    "C:\\Web\\Backend\\C#\\Session 3\\Session04\\Session04_Demo\\Session04_Demo.csproj": {
+    "C:\\Web\\Backend\\C#\\Session 4\\Session04\\Session04_Demo\\Session04_Demo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Web\\Backend\\C#\\Session 3\\Session04\\Session04_Demo\\Session04_Demo.csproj",
+        "projectUniqueName": "C:\\Web\\Backend\\C#\\Session 4\\Session04\\Session04_Demo\\Session04_Demo.csproj",
         "projectName": "Session04_Demo",
-        "projectPath": "C:\\Web\\Backend\\C#\\Session 3\\Session04\\Session04_Demo\\Session04_Demo.csproj",
+        "projectPath": "C:\\Web\\Backend\\C#\\Session 4\\Session04\\Session04_Demo\\Session04_Demo.csproj",
         "packagesPath": "C:\\Users\\LENOVO\\.nuget\\packages\\",
-        "outputPath": "C:\\Web\\Backend\\C#\\Session 3\\Session04\\Session04_Demo\\obj\\",
+        "outputPath": "C:\\Web\\Backend\\C#\\Session 4\\Session04\\Session04_Demo\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -4,6 +4,28 @@ namespace Assignment04
 {
     internal class Program
     {
+        static void Swap (int x, int y)
+        {
+            int temp = x;
+            x = y;
+            y = temp;
+        }
+        static void Swap2(ref int x, ref int y)
+        {
+            int temp = x;
+            x = y;
+            y = temp;
+        }
+        static void ChangeArray(int[] Arr)
+        {
+            Arr = new int[] { 3, 4, 5 };
+
+        }
+        static void ChangeArray2(ref int[] Arr)
+        {
+            Arr = new int[] { 3, 4, 5 };
+
+        }
         static (int sum, int sub) CalculateSumAndSub(int a, int b, int c, int d)
         {
             int sum = a + b + c + d;
@@ -34,6 +56,24 @@ namespace Assignment04
                 }
             }
             return true;
+        }
+        static void MinMaxArr(ref int[] Arr, out int Min, out int Max)
+        {
+            Min = int.MaxValue;
+            Max = int.MinValue;
+
+            for (int i = 0; i < Arr.Length; i++)
+            {
+                if (Arr[i] < Min)
+                {
+                    Min = Arr[i];
+                }
+                if (Arr[i] > Max)
+                {
+                    Max = Arr[i];
+                }
+            }
+
         }
         static long CalcFactorial(int num)
         {
@@ -399,6 +439,43 @@ namespace Assignment04
             //}
             #endregion
             #region Functions
+            #region Ex 1
+            //// passing by value will create a stack frame for the function and then will desrtoy it
+            //// no data is saved
+            ////example:
+            //int a =5, b = 3;
+            //Console.WriteLine(a);
+            //Console.WriteLine(b);
+            //Swap(a, b);
+            //Console.WriteLine(a);
+            //Console.WriteLine(b);
+
+            // passing by reference will pass the address of the variable and not the value only
+            // any changes done on the variables will take effect
+            //example:
+            //int a =5, b = 3;
+            //Console.WriteLine(a);
+            //Console.WriteLine(b);
+            //Swap2(ref a, ref b);
+            //Console.WriteLine(a);
+            //Console.WriteLine(b);
+            #endregion
+            #region Ex 2
+            //// passing by value and reference is the same as the reference type datatype will pass the address
+            //// the only exeption is when creating a new instance of the passed datatype
+            ////example:
+            //int[] Numbers = { 100, 200, 300 };
+            //ChangeArray(Numbers);
+            //for (int i = 0; i < Numbers.Length; i++)
+            //{
+            //    Console.WriteLine(Numbers[i]);
+            //}
+            //ChangeArray2(ref Numbers);
+            //for (int i = 0; i < Numbers.Length; i++)
+            //{
+            //    Console.WriteLine(Numbers[i]);
+            //}
+            #endregion
             #region Ex 3
             //Console.WriteLine("Enter 4 numbers");
             //int Num1 = int.Parse(Console.ReadLine());
@@ -420,6 +497,13 @@ namespace Assignment04
             //int Num = int.Parse(Console.ReadLine());
             //bool Prime = IsPrime(Num);
             //Console.WriteLine(Prime);
+            #endregion
+            #region Ex 6
+            //int min, max;
+            //int[] Numbers = { 1, 2, 3 };
+            //MinMaxArr(ref Numbers, out min, out max);
+            //Console.WriteLine($"Min is {min}");
+            //Console.WriteLine($"Max is {max}");
             #endregion
             #region Ex 7
             //Console.WriteLine("Enter a number");
